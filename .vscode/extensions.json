@@ -1,0 +1,23 @@
+{
+    "recommendations": [
+        "mgesbert.python-path",
+        "kevinrose.vsc-python-indent",
+        "njpwerner.autodocstring",
+        "donjayamanne.python-extension-pack",
+        "donjayamanne.python-environment-manager",
+        "tabnine.tabnine-vscode",
+        "streetsidesoftware.code-spell-checker",
+        "esbenp.prettier-vscode",
+        "robbowen.synthwave-vscode",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "pkief.material-icon-theme",
+        "shd101wyy.markdown-preview-enhanced",
+        "visualstudioexptteam.vscodeintellicode",
+        "eamodio.gitlens",
+        "dbaeumer.vscode-eslint",
+        "usernamehw.errorlens",
+        "ms-azuretools.vscode-docker",
+        "batisteo.vscode-django"
+    ]
+}
