@@ -1,0 +1,2 @@
+Problem: [https://leetcode.com/problems/break-a-palindrome/](https://leetcode.com/problems/break-a-palindrome/)
+Solution: [https://leetcode.com/problems/break-a-palindrome/discuss/511031/JavaScript-answer-Easy-to-understand-with-comments](https://leetcode.com/problems/break-a-palindrome/discuss/511031/JavaScript-answer-Easy-to-understand-with-comments)
