@@ -1,0 +1,2 @@
+Problem: [https://leetcode.com/problems/open-the-lock/](https://leetcode.com/problems/open-the-lock/)
+Solution: [https://leetcode.com/problems/open-the-lock/discuss/730358/Simple-and-readable-BFS-solution-in-JavaScript-%2B-Explanation](https://leetcode.com/problems/open-the-lock/discuss/730358/Simple-and-readable-BFS-solution-in-JavaScript-%2B-Explanation)
