@@ -1,2 +1,2 @@
-# hackerrank
-This repo is to solve some tasks on Hacker Rank
+# Leetcode
+This repo is to solve some tasks on Leetcode
