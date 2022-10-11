@@ -12,6 +12,6 @@
     "typescript": "^4.8.4"
   },
   "scripts": {
-    "start": "cd challenges/_$id && tsc solution.ts && node solution.js"
+    "start": "cd challenges/$id && tsc solution.ts && node solution.js"
   }
 }
