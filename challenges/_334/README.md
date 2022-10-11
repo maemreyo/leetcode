@@ -1,0 +1,2 @@
+Problem: [https://leetcode.com/problems/increasing-triplet-subsequence/](https://leetcode.com/problems/increasing-triplet-subsequence/)
+Solution: [https://leetcode.com/submissions/detail/819821218/](https://leetcode.com/submissions/detail/819821218/)
