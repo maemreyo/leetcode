@@ -31,6 +31,8 @@
         "stateful.marquee",
         "wayou.vscode-todo-highlight",
         "humao.rest-client",
-        "aaron-bond.better-comments"
+        "aaron-bond.better-comments",
+        "firsttris.vscode-jest-runner",
+        "Orta.vscode-jest"
     ]
 }
