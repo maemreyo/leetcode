@@ -32,7 +32,6 @@
         "wayou.vscode-todo-highlight",
         "humao.rest-client",
         "aaron-bond.better-comments",
-        "firsttris.vscode-jest-runner",
-        "Orta.vscode-jest"
+        "orta.vscode-jest"
     ]
 }
