@@ -1,7 +1,7 @@
 import { describe, expect, test } from '@jest/globals'
 import { increasingTriplet } from './solution'
 
-describe('Increasing triplet subsequence', () => {
+describe('Solution: Increasing triplet subsequence', () => {
 
     test("Should return the truthy value", () => {
         expect(increasingTriplet([1,2,3,4,5])).toBeTruthy();

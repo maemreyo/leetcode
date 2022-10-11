@@ -2,7 +2,7 @@ import { describe, expect, test } from '@jest/globals'
 import { TreeNode as Node, hasPathSum as hasRootToLeaf, isLeaf } from "./solution"
 import { tree } from './tree'
 
-describe('Solution 1', () => {
+describe('Solution:', () => {
 
     test("TreeNode structure", () => {
         expect(isLeaf(tree)).toBeFalsy();

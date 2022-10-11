@@ -1,4 +1,7 @@
-//  * Definition for a binary tree node.
+"use strict";
+exports.__esModule = true;
+exports.preorderTraversal = exports.sampleTree = void 0;
+// Definition for a binary tree node.
 var TreeNode = /** @class */ (function () {
     function TreeNode(val, left, right) {
         this.val = (val === undefined ? 0 : val);
@@ -7,14 +10,15 @@ var TreeNode = /** @class */ (function () {
     }
     return TreeNode;
 }());
-var result = [];
-var preorderTraversal = function (root) {
-    if (root !== null) {
+exports.sampleTree = new TreeNode(1, null, new TreeNode(2, new TreeNode(3)));
+var preorderTraversal = function (root, result) {
+    if (result === void 0) { result = []; }
+    if (!!root) {
         result.push(root.val);
-        preorderTraversal(root.left);
-        preorderTraversal(root.right);
+        (0, exports.preorderTraversal)(root.left, result);
+        (0, exports.preorderTraversal)(root.right, result);
     }
-    console.log(result);
     return result;
 };
-preorderTraversal(new TreeNode(1, null, new TreeNode(2, new TreeNode(3))));
+exports.preorderTraversal = preorderTraversal;
+(0, exports.preorderTraversal)(exports.sampleTree);

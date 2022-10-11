@@ -21,5 +21,4 @@ export const preorderTraversal = (root: TreeNode | null, result: number[] = []):
     return result;
 };
 
-
 preorderTraversal(sampleTree);

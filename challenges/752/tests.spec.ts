@@ -1,7 +1,7 @@
 import { describe, expect, test } from '@jest/globals'
 import { openLock } from './solution';
 
-describe('Open the lock', () => {
+describe('Solution: Open the lock', () => {
 
     test("Should return the right value", () => {
         const deadends = ["0201","0101","0102","1212","2002"];

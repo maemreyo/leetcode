@@ -2,7 +2,7 @@ import { minCost as firstApproach } from "./FirstApproach";
 import { minCost as secondApproach } from "./SecondApproach";
 import { describe, expect, test } from '@jest/globals'
 
-describe("First approach", function () {
+describe("Solution: First approach", function () {
     test("Should return the right value", function () {
         expect(firstApproach("abaa", [1, 2, 3, 4])).toBe(3);
         expect(firstApproach("abcaa", [1, 2, 3, 1, 4])).toBe(1);

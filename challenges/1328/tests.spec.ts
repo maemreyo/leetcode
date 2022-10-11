@@ -1,7 +1,7 @@
 import { describe, expect, test } from '@jest/globals'
 import { breakPalindrome } from './solution'
 
-describe('Break a Palindrome', () => {
+describe('Solution: Break a Palindrome', () => {
 
     test("Should return empty string when the given input cant be replaced to make it not a palindrome", () => {
         expect(breakPalindrome("w")).toBe("");

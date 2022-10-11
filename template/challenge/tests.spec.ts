@@ -1,8 +1,8 @@
-// import { describe, expect, test } from '@jest/globals'
+import { describe, expect, test } from '@jest/globals'
 
-// describe('Solution 1', () => {
+describe('Template 1', () => {
 
-//     test("1", () => {
-//     })
+    test("1", () => {
+    })
 
-// })
+})
