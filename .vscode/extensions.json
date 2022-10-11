@@ -18,6 +18,19 @@
         "dbaeumer.vscode-eslint",
         "usernamehw.errorlens",
         "ms-azuretools.vscode-docker",
-        "batisteo.vscode-django"
+        "batisteo.vscode-django",
+        "bobmagicii.dashyeah",
+        "softwaredotcom.swdc-vscode",
+        "softwaredotcom.swdc-100-days-of-code",
+        "dracula-theme.theme-dracula",
+        "figstack.vsc",
+        "shyykoserhiy.git-autoconfig",
+        "visualstudioexptteam.intellicode-api-usage-examples",
+        "sburg.vscode-javascript-booster",
+        "yzhang.markdown-all-in-one",
+        "stateful.marquee",
+        "wayou.vscode-todo-highlight",
+        "humao.rest-client",
+        "aaron-bond.better-comments"
     ]
 }
