@@ -1,8 +1,9 @@
 import { describe, expect, test } from '@jest/globals'
 
-describe('Template 1', () => {
+describe('', () => {
 
-    test("1", () => {
+    test("Should return the right value", () => {
+        
     })
 
 })
