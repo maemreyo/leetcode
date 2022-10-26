@@ -3,6 +3,7 @@
         "deadends",
         "inorder",
         "nums",
+        "postorder",
         "preorder"
     ]
 }
